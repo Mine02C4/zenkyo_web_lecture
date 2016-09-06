@@ -1,0 +1,39 @@
+body {
+    background-color:ivory;
+}
+
+article {
+    background-color:white;
+    width:1000px;
+
+    margin:0 auto;
+}
+
+h1 {
+    font-size:60px;
+    color:white;
+    background-color:green ;
+    width:370px;
+    margin:0 auto;
+}
+
+h2 {
+    font-size:40px;
+}
+
+h3 {
+    font-size:20px;
+}
+
+h5 {
+    font-size:15px;
+    color:white;
+    background-color:green;
+    width:130px;
+}
+
+dt{
+    color:white;
+    background-color:green;
+    width:50px;
+}
